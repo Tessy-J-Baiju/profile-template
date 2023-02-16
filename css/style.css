@@ -1,0 +1,15 @@
+/*Author:Tessy*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo {
+    width: 3vh;
+}
+.scrn1 {
+    width: 40vh;
+}
+.scrn1 img:hover {
+    transform: translate(10px, 10px);
+}
